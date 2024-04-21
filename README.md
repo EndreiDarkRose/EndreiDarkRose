@@ -8,6 +8,7 @@ Frontend-разработчик. Интересуюсь информационн
 Из дополнительных навыков:
 - React Hook Form, Chakra UI, MUI.
 - Styled components, SCSS,
+- Axios.
 - GitHub, Figma.
 - DRY, KISS, SOLID.
 
